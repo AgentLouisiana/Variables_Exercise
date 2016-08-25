@@ -121,6 +121,8 @@ int main()
 		std::cin >> i >> ch >> o;
 		std::cout << "i: " << i << "\nch: " << ch << "\nf: " << f << std::endl;
 
+		system("pause");
+
 		//6
 
 		//Ask the user for 5 while numbers. Output the average of these numbers.
